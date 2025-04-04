@@ -5,18 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccf28e02-8a90-4ad8-82f4-73d53a9da426" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/profile.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/saved.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/(tabs)/search.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/movies/[id].tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/person.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/save.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/icons/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/highlight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/rankingGradient.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/partial-react-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/react-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/react-logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/react-logo@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/splash-icon.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +65,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/athar/WebstormProjects/Moive_app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -93,7 +104,7 @@
       <workItem from="1743771916242" duration="16000" />
       <workItem from="1743771945339" duration="747000" />
       <workItem from="1743772714793" duration="132000" />
-      <workItem from="1743772863897" duration="1573000" />
+      <workItem from="1743772863897" duration="3039000" />
     </task>
     <servers />
   </component>
